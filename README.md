@@ -1,16 +1,14 @@
-### Hi there 👋
+### **Sejam bem-vindos ao meu perfil** ♣
 
-<!--
-**Lucas-Amorim7/Lucas-Amorim7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Meu nome é Lucas Pereira.
+- Estou estudando na [Alura}(https://www.alura.com.br/) é [Udemy](https://www.udemy.com/)
+- Estou me desenvolvendo na programação com foco e objetivo nas áreas de "Ethical Hacking e Back-end".
+- Utilizo esse espaço para organização e compartilhamento dos meus projetos desenvolvidos.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Você pode entrar em contato comigo** 📫
+
+[Contato: eticalscriptsilente@gmail.com](mailto:eticalscriptsilente@gmail.com)
+
+![](https://media1.tenor.com/m/PhnZUt2djmkAAAAd/matrix-elmo.gif)
