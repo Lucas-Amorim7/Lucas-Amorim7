@@ -1,9 +1,9 @@
 ### **Sejam bem-vindos ao meu perfil** ♣
 
-- Meu nome é Lucas Pereira.
+- Meu nome é Lucas Pereira
 - Estou estudando na [Alura](https://www.alura.com.br/) é [Udemy](https://www.udemy.com/)
-- Estou me desenvolvendo na programação com foco e objetivo nas áreas de "Ethical Hacking e Back-end".
-- Utilizo esse espaço para organização e compartilhamento dos meus projetos desenvolvidos.
+- Estou me desenvolvendo na programação com foco e objetivo nas áreas de "Ethical Hacking e Back-end"
+- Utilizo esse espaço para organização e compartilhamento dos meus projetos desenvolvidos
 
 ---
 
